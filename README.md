@@ -19,6 +19,23 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
 ## Running end-to-end tests
+## Number of Pipes Available in anguler
+
+
+# Name	Description
+# AsyncPipe	Read the value from a Promise or an RxJS Observable.
+# CurrencyPipe	Transforms a number to a currency string, formatted according to locale rules.
+# DatePipe	Formats a Date value according to locale rules.
+# DecimalPipe	Transforms a number into a string with a decimal point, formatted according to locale rules.
+# I18nPluralPipe	Maps a value to a string that pluralizes the value according to locale rules.
+# I18nSelectPipe	Maps a key to a custom selector that returns a desired value.
+# JsonPipe	Transforms an object to a string representation via JSON.stringify, intended for debugging.
+# KeyValuePipe	Transforms Object or Map into an array of key value pairs.
+# LowerCasePipe	Transforms text to all lower case.
+# PercentPipe	Transforms a number to a percentage string, formatted according to locale rules.
+# SlicePipe	Creates a new Array or String containing a subset (slice) of the elements.
+# TitleCasePipe	Transforms text to title case.
+# UpperCasePipe	Transforms text to all upper case.
 
 Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
 
